@@ -1,0 +1,5 @@
+*.csv
+model
+model.stan
+model.hpp
+data.R
